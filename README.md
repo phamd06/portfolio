@@ -1,6 +1,6 @@
-# CITS2006 Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
-This repository contains evidence and supporting documents for my CITS2006 cybersecurity portfolio.
+This repository documents practical cybersecurity activities completed as part of my portfolio development. It includes evidence, reflections, screenshots, notes, and supporting files that demonstrate applied security concepts, privacy awareness, cryptography, vulnerability analysis, and generative AI security testing.
 
 ## Repository Structure
 
