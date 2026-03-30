@@ -6,3 +6,5 @@ changing variables such as money, level and other essential game functions. Typi
 
 ### References
 https://videlais.com/2021/02/28/encrypting-game-data-with-unity/
+
+https://medium.com/@pantelis/protecting-game-saves-and-the-case-of-unworthy-e24c8fd68e16
