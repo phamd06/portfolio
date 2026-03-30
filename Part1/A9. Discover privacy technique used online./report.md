@@ -1,2 +1,9 @@
 ## Virtual Private Networks
 Virtual Private Networks (VPNs) are one of the most popular and prevalent privacy techniques used in the modern day. VPNs are primarily used to hide your real IP address, which reveals your approximate geogrpahic location but also your online activity which can be used by an attacker for various malicious activities such as a Denial of Service. Besides hiding your IP address, VPN's are also used encrypt the data that you send over the internet for an extra layer of security such as when you may be exposed on public networks and potentially expose personal information such as credit card information or login details. To generalise the purpose of VPNs in the context of privacy, VPNs are basically concealing the connection between your virtual identity and your real identity. Hiding the activity you indulge in the internet and encrypting your data so nobody, not even your Internet Service Provider can see what you are doing, thus severing the connection between the real world and what you do online.
+
+<img width="3000" height="3900" alt="image" src="https://github.com/user-attachments/assets/9bb1f1dd-4cb1-4bd5-be7e-c8da9d37de19" />
+
+
+### References
+https://nordvpn.com/blog/how-does-a-vpn-work/?srsltid=AfmBOoobGgIYH_FyY76jSFxeyt4DVY5AZ-uBFFmnxR4f7XIPMepKENrT
+https://www.geeksforgeeks.org/computer-networks/what-is-vpn-how-it-works-types-of-vpn/
