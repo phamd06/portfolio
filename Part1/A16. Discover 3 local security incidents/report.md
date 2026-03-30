@@ -21,3 +21,10 @@ This attack is a clear example of how multiple fundamental cybersecurity aspects
 1. Supply Chain Attacks - This event is a prime example of how main systems are able to defend off attacks but are infiltrated through third party programs designed to store data for the main systems. The department of education and their systems may have been incredibly secure however when agreeing to use third party data storages, this event shows us that if those third party softwares are compromised, it means the entire system is compromised. For mitigation, its highly recommended for securty audits to ensure third party systems are able to defend off attacks, and limiting their access to your secure storage.
 2. Excessive Data Access and Poor Segmentation - In this event, one single third party had stored every single piece of data in one location. This is incredibly poor data segmentation and a serious risk of data security, evidently seen by this aftermath. Data must be separated into different locations by any means, third parties should not have admin privileges and data stored in storage must be encrypted in case of attacks.
 3. Accessor Authentication - Though obvious the attacker should not have gained access to the third party's data in the first place, it is still unsatisfactory that the vendor did not have any authentication processes in place to properly identify if the accessor is authorised. Automatic alerts for large data downloads, consistent checks of accessing, multi factor authentication and storing audit logs are some ways to mitigate this issue.
+
+### References
+https://www.cyberdaily.au/security/13262-exclusive-qilin-ransomware-targets-quartet-of-australian-businesses-in-one-month
+
+https://www.westernsydney.edu.au/news/cyber-details/october-23-2025?
+
+https://www.vic.gov.au/cyber-incident-impacting-victorian-government-schools
