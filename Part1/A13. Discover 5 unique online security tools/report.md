@@ -46,7 +46,7 @@ Limitation:
 Antivirus software may not detect every new or advanced threat, particularly if definitions are outdated or if the attack uses social engineering.
 
 Evidence:
-[Window's Antivirus](Windows_Security.png)
+[Window's Antivirus](Windows_Antivirus.png)
 
 
 ## Firewall
