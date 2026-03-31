@@ -18,4 +18,4 @@ Allowing weak passwords increases the likelihood of unauthorised access because 
 If attackers are able to guess or obtain weak passwords, they may gain unauthorised access to user accounts and any associated personal or account information. Website servers may be cluttered with unusable and unwanted emails due to no verification.
 
 ## Evidence 
-[Weak registration requirements](Vulnerable_Wesbite.png)
+[Weak registration requirements](Vulnerable_Website.png)
