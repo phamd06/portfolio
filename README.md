@@ -24,6 +24,7 @@ This repository documents practical cybersecurity activities completed as part o
 - **A15** – Discover 5 recent security incidents
 - **A16** – Discover 3 local security incidents
 - **A18** – Discover two hallucination cases when using a generative AI system
+- **A23** - Enhance the cybersecurity at your home.
 - **A25** – Design and implement a privacy-preserving technique for an appropriate application
 - **A27** – Research and implement a system vulnerability
 - **A28** – Implement a security solution of your choice and put it on GitHub
