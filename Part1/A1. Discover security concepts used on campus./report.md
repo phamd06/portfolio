@@ -7,3 +7,5 @@ There is available free wifi on campus for students and members of the faculty h
 
 ## Student Card:
 Students have a unique student card that provides a layer of added security authentication for them which verifies they are who they are. Inbuilt in the student card also demonstrates the authorisation, showing what the student is allowed and not allowed to do. Authorisation is a security concept that is integral part of Access Control. 
+
+Photo: [UWA Student Card](IMG_6043.jpeg)
