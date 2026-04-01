@@ -30,3 +30,5 @@ https://www.securityweek.com/cyberattack-on-jlr-prompts-1-5-billion-uk-governmen
 https://en.wikipedia.org/wiki/Jaguar_Land_Rover_cyberattack
 https://www.blackfog.com/marks-and-spencer-ransomware-attack/
 https://thehackernews.com/2025/07/four-arrested-in-440m-cyber-attack-on.html
+https://www.techtarget.com/whatis/feature/PowerSchool-data-breach-Explaining-how-it-happened
+https://www.k12dive.com/news/powerschool-hacker-sentencing-lessons-learned-data-breach/803053/
