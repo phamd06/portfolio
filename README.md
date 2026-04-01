@@ -4,8 +4,8 @@ This repository documents practical cybersecurity activities completed as part o
 
 ## Repository Structure
 
-- `Part1/` – Activity evidence for practical cybersecurity tasks
-- `Part2/` – Reflection, supporting documents, and final portfolio materials
+- `Part1/` – Directory for Part 1
+- `Part2/` – Directory for Part 2
 
 ## Part 1 Activities Completed
 
