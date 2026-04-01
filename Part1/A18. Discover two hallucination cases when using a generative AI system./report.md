@@ -4,4 +4,7 @@ This is a well documented class of AI hallucination where language models fail t
 
 <img width="730" height="680" alt="image" src="https://github.com/user-attachments/assets/a4a1a3bc-a264-4ff6-bf57-32e02a39625f" />
 
-## 
+## Fake Academic Study and Law
+The response contained fabricated academic and legal information presented in a confident and factual tone. The AI appeared willing to invent details about a study and a law that were not verified, rather than expressing uncertainty. This is a strong example of hallucination because the false information sounded realistic and could easily mislead a user. This example shows that AI systems may sometimes respond accurately in one part of a query while hallucinating in another. This makes hallucinations particularly risky, because a partially correct response can make the false parts seem more believable. This activity showed that hallucinations are not always obvious, especially when AI responses sound fluent, confident, and well-structured. It also highlighted the importance of verifying AI-generated information, particularly when the topic relates to history, law, research, or technical knowledge. Even when an AI provides some correct information, other parts of the same response may still be fabricated or misleading.
+
+<img width="2099" height="1231" alt="image" src="https://github.com/user-attachments/assets/511772ae-8507-43f1-a3af-db0f2ffae870" />
