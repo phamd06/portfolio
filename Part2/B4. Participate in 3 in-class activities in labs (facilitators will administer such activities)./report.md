@@ -1,4 +1,4 @@
-**Each lab activity was supervised and is verified by Lab Facilitator Robin Candy
+**Each lab activity was supervised and is verified by Lab Facilitator Robin Candy**
 
 ## 1st Lab Activity:
 A workshop activity conducted with the primary focus of Privacy. Classroom was split into groups, in each group, each member had the possession of one secret number. Each member was tasked to share their own number to the other group members without actually revealing what that number was. My group concluded that for this specific issue, each member would possess 2 extra number of their choosing which they would add together to create a sum of numbers, then finally add their original secret numbers on top which when concluded, allowed for perfect secerecy and ultimately achieved the goal.
